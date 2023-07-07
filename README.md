@@ -1,4 +1,4 @@
-●	Designed and implemented an NLP-project to detect and classify reviews to positive and negative reviews.
+<br>●	Designed and implemented an NLP-project to detect and classify reviews to positive and negative reviews.</br>
 ●	Designed using machine learning models: SVC, Neural Network and MultinomialNB models.
 ●	Deployed it using streamlet library. 
 
